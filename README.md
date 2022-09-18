@@ -24,7 +24,7 @@ The application is a way to find a duo that likes and play the same game to play
 
 To learn more, i'll stablish some rules and steps to continue with the application (web, backend and mobile).
 
-## Technologies 📝
+## Technologies 💻
 
 This list contains all the technology used to create the application.
 
@@ -38,11 +38,11 @@ This list contains all the technology used to create the application.
 - [Tailwind](https://tailwindcss.com/)
 - [Axios](https://axios-http.com/ptbr/docs/intro)
 
-## Documentations
+## Documentations 📂
 
 For more detailed documentation, each of the projects has its own README.
 
-- [Web Documentation](https://github.com/jessicacastro/nlw-esports/tree/main/web)
+- [Web Documentation](./web/README.md)
 - [Backend Documentation](./backend/README.md)
 - [Mobile Documentation](./mobile/README.md)
 

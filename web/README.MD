@@ -24,7 +24,7 @@ The application is a way to find a duo that likes and play the same game to play
 
 To learn more, i'll stablish some rules and steps to continue with the application.
 
-## Technologies 📝
+## Technologies 💻
 
 - [React](https://beta.reactjs.org/)
 - [Radix UI](https://www.radix-ui.com/)
