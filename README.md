@@ -42,7 +42,7 @@ This list contains all the technology used to create the application.
 
 For more detailed documentation, each of the projects has its own README.
 
-- [Web Documentation](./web/README.md)
+- [Web Documentation](https://github.com/jessicacastro/nlw-esports/tree/main/web)
 - [Backend Documentation](./backend/README.md)
 - [Mobile Documentation](./mobile/README.md)
 
