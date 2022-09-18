@@ -29,14 +29,14 @@ List of itens on an ad
 
 ## Use Cases
 
-- [ ] List of games with advertisements counts
-- [ ] Create a new advertisement for a game
-- [ ] List of advertisements by game
-- [ ] Search discord by advertisement id
+- [x] List of games with advertisements counts
+- [x] Create a new advertisement for a game
+- [x] List of advertisements by game
+- [x] Search discord by advertisement id
 
 ## Technologies
 
-- (NodeJS)[]
-- (Express)[]
-- (Prisma)[]
-- (SQLite)[]
+- [NodeJS](https://nodejs.org/)
+- [Express](https://expressjs.com/pt-br/)
+- [Prisma](https://www.prisma.io/)
+- [SQLite](https://www.sqlite.org/index.html)
